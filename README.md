@@ -50,7 +50,7 @@ Gosto de código limpo, bem arquitetado e testado. Trabalho bem em times ágeis 
 
 ### Arquitetura & Metodologias
 - Microsserviços, Clean Architecture, MVC, Arquitetura em Camadas
-- Design Patterns (GoF), Princípios SOLID
+- Design Patterns, Princípios SOLID
 - API RESTful
 - Modelagem UML, Engenharia de Requisitos
 - Scrum, Kanban
