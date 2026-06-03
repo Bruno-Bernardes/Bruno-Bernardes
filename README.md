@@ -63,9 +63,6 @@ Gosto de código limpo, bem arquitetado e testado. Trabalho bem em times ágeis 
 |---|---|---|
 | [projetos em breve](#) | Breve descrição do que o projeto faz | Java, Spring, Docker |
 
-
-> 💡 *Substitua os placeholders acima com seus projetos reais.*
-
 ---
 
 ## 📬 Contato
